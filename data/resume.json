@@ -1,0 +1,483 @@
+{
+  "profile": {
+    "name": "Syed Rohaan Hussain",
+    "shortName": "Rohaan",
+    "role": "Senior Full-Stack Engineer & Team Lead",
+    "headline": "Full-stack software engineer. I build scalable platforms, pragmatic APIs, and AI-enabled workflows.",
+    "summary": "Full-stack software engineer and team lead with 8+ years of experience building scalable web platforms, APIs, and integrations using JavaScript/TypeScript, Node.js, React/Next.js, PHP/Laravel, PostgreSQL, MySQL, and MongoDB. Experienced in designing robust architectures, integrating LLMs and OpenAI APIs, and accelerating product development with AI-assisted tools. Proven track record of leading cross-functional teams and delivering high-impact products from concept to production.",
+    "location": "Pakistan",
+    "email": "syedrohaanhussain@gmail.com",
+    "phone": "+92 333 4333896",
+    "resumeUrl": "https://rohaan-resume-2026.s3.us-east-1.amazonaws.com/RohaanResume-2026.pdf",
+    "toptalUrl": "https://www.toptal.com/developers/resume/syed-rohaan-hussain#NgRYLm",
+    "socials": [
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/syed-rohaan-hussain-36a589b9"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/rohaan-hussain"
+      }
+    ]
+  },
+  "about": [
+    "I am Rohaan Hussain (Syed Rohaan Hussain), a senior full-stack software engineer and team lead based in Pakistan. If you need a software engineer or full-stack engineer for product work, I am available for hire. I build with TypeScript, React, Next.js, and Node.js.",
+    "My work spans customer-facing platforms, operational dashboards, third-party integrations, healthcare applications, and event-driven services. I care about the details that make systems easier to operate: clear APIs, safe data migrations, observable workflows, and maintainable frontends.",
+    "More recently, I have been building AI-enabled product experiences with OpenAI APIs and n8n automation, including recommendation flows and scheduled user reminders."
+  ],
+  "focusAreas": [
+    "Full-stack product engineering",
+    "API and microservice architecture",
+    "AI integrations and workflow automation",
+    "Technical leadership and delivery"
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["TypeScript", "JavaScript", "PHP"]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "Vue 3",
+        "Redux",
+        "Zustand",
+        "TanStack Query",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Storybook"
+      ]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": [
+        "Node.js",
+        "Express",
+        "Laravel",
+        "REST APIs",
+        "GraphQL",
+        "Apollo",
+        "WebSockets",
+        "WebRTC",
+        "Microservices"
+      ]
+    },
+    {
+      "category": "Messaging, Queues & Event Streaming",
+      "items": [
+        "Apache Kafka",
+        "AWS SQS",
+        "RabbitMQ",
+        "BullMQ",
+        "Redis Pub/Sub",
+        "Event-driven architecture",
+        "Background jobs",
+        "Retry and dead-letter workflows"
+      ]
+    },
+    {
+      "category": "Databases & Search",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "DynamoDB",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "category": "Cloud, DevOps & Observability",
+      "items": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "GitLab CI/CD",
+        "Bitbucket Pipelines",
+        "TeamCity",
+        "Camunda BPM",
+        "Grafana",
+        "ELK"
+      ]
+    },
+    {
+      "category": "Testing & Quality",
+      "items": [
+        "Jest",
+        "Unit testing",
+        "Integration testing",
+        "End-to-end testing",
+        "API testing",
+        "Performance optimization"
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "items": [
+        "OpenAI API",
+        "LLM integration",
+        "Prompt design",
+        "Structured outputs",
+        "n8n",
+        "Webhooks",
+        "Workflow orchestration"
+      ]
+    },
+    {
+      "category": "Third-party Integrations",
+      "items": [
+        "Stripe",
+        "Shopware",
+        "Contentful",
+        "Google Calendar",
+        "Zoom",
+        "Twilio",
+        "Pusher",
+        "Moyasar",
+        "Jira",
+        "Microsoft Project"
+      ]
+    },
+    {
+      "category": "AI-assisted Development",
+      "items": ["Claude", "Cursor", "Codex", "Figma Make"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Burq",
+      "role": "Senior Software Engineer",
+      "dates": "Jul 2024 – Present",
+      "href": "https://burqup.com",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "Zustand",
+        "shadcn/ui"
+      ],
+      "bullets": [
+        "Led migration from MySQL to PostgreSQL for approximately 120 tables and production data, validating schema compatibility and data integrity for a stable zero-critical-issue cutover.",
+        "Converted the Burq codebase to TypeScript, improving type safety and long-term maintainability while reducing runtime risk.",
+        "Modernized the frontend by refactoring legacy React components into shadcn/ui patterns and introducing Zustand-based global state management.",
+        "Engineered multiple TypeScript consumer APIs for secure, scalable external integrations with robust data handling."
+      ]
+    },
+    {
+      "company": "Morgator.ai",
+      "role": "Senior Software Engineer (Team Lead)",
+      "dates": "Mar 2026 – May 2026",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "OpenAI API",
+        "n8n"
+      ],
+      "bullets": [
+        "Led end-to-end development of an MVP for the U.S. Islamic mortgage market using React and TypeScript on the frontend, Node.js on the backend, and MySQL for data storage.",
+        "Designed a guided questionnaire to capture users' financial needs and integrated OpenAI to recommend suitable Islamic mortgage plans based on their responses.",
+        "Used n8n to schedule automated reminders based on users' application progress and follow-up requirements."
+      ]
+    },
+    {
+      "company": "KayloLife",
+      "role": "Senior Software Engineer (Team Lead)",
+      "dates": "Jan 2024 – Jun 2025",
+      "href": "https://kaylolife.com/",
+      "technologies": [
+        "Vue 3",
+        "Laravel",
+        "Stripe",
+        "TypeScript",
+        "Tailwind CSS",
+        "MySQL",
+        "Contentful",
+        "Shopware"
+      ],
+      "bullets": [
+        "Directed a four-engineer cross-functional team across frontend and backend, delivering multiple major releases through streamlined planning and execution.",
+        "Led end-to-end development of the wellness platform from concept to launch. Integrated Stripe for recurring subscription billing and à la carte course and program purchases, Contentful for articles, blog posts, and other content, and Shopware for course management, order handling, and user administration.",
+        "Built a flexible access model that enabled customers to purchase individual courses while maintaining a modular and scalable architecture.",
+        "Oversaw full-cycle development from planning and implementation to testing and deployment, and streamlined CI/CD workflows to improve delivery reliability."
+      ]
+    },
+    {
+      "company": "CodeNinja",
+      "role": "Principal Software Engineer (Team Lead)",
+      "dates": "Jun 2022 – May 2024",
+      "href": "https://www.codeninja.pk",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Jest",
+        "Microsoft Excel",
+        "Microsoft Project",
+        "Smartsheet",
+        "Jira"
+      ],
+      "bullets": [
+        "Built browser-based workflows that imported data from Microsoft Excel, Microsoft Project, Smartsheet, and Jira to generate timelines, Gantt charts, and project roadmaps.",
+        "Implemented exports for timeline visuals as PowerPoint slides and PNG images, supporting project planning and communication.",
+        "Conducted training sessions through TechLift that supported the development of more than 50 individuals.",
+        "Improved screen optimization fourfold and created a more user-friendly application.",
+        "Wrote unit and end-to-end tests with Jest for API and application workflows."
+      ]
+    },
+    {
+      "company": "Bicycle Health Inc",
+      "role": "Full-stack Engineer",
+      "dates": "Jun 2022 – Feb 2023",
+      "href": "https://www.bicyclehealth.com/",
+      "technologies": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "GCP",
+        "Google Calendar",
+        "Zoom",
+        "Athena Healthcare",
+        "Twilio"
+      ],
+      "bullets": [
+        "Integrated Google Calendar, Zoom, and Athena Healthcare into live healthcare applications.",
+        "Provided on-call support for production applications and resolved critical issues in a dynamic environment.",
+        "Launched the BH application successfully in four states.",
+        "Wrote unit and end-to-end tests with Jest for API workflows."
+      ]
+    },
+    {
+      "company": "Agoda",
+      "role": "Senior Full-stack Engineer",
+      "dates": "Oct 2021 – Jul 2022",
+      "href": "https://www.agoda.com/",
+      "technologies": [
+        "Node.js",
+        "GitLab CI",
+        "TeamCity",
+        "Elasticsearch",
+        "Grafana",
+        "Jest"
+      ],
+      "bullets": [
+        "Synchronized GitLab CI with a release management tool, enabling a release process initiated with a single button click.",
+        "Collected logs from GitLab and TeamCity and transmitted them to Elasticsearch for centralized indexing and retrieval.",
+        "Built Grafana dashboards using Elasticsearch data to visualize CI/CD activity and support operational monitoring.",
+        "Wrote unit and end-to-end tests with Jest for API workflows."
+      ]
+    },
+    {
+      "company": "MUNCH:ON (Acquired by Careem)",
+      "role": "Software Engineer (Team Lead)",
+      "dates": "Sep 2017 – Jul 2021",
+      "technologies": [
+        "Node.js",
+        "PHP Laravel",
+        "React",
+        "Next.js",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "DynamoDB",
+        "ELK",
+        "Jest"
+      ],
+      "bullets": [
+        "Built more than seven microservices and APIs using Node.js and PHP Laravel with React and Next.js, supporting 5,000+ daily orders across MySQL, MongoDB, Redis, and DynamoDB.",
+        "Led development of user-facing REST APIs and microservice-based notification solutions for MUNCH:ON.",
+        "Integrated observability with ELK and Winston in Node.js.",
+        "Created database models, relationships, and extensions, and wrote unit and end-to-end tests with Jest."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Burq Dashboard",
+      "description": "Architected and built a customized dashboard for Burq users to manage deliveries, track orders, and oversee payments. Built integration APIs to enable third-party connectivity.",
+      "mainTechs": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MySQL",
+        "PostgreSQL",
+        "shadcn/ui",
+        "Tailwind CSS"
+      ],
+      "aiTools": ["Claude", "Cursor"],
+      "href": "https://burqup.com",
+      "visual": "dashboard",
+      "accent": "#64ffda"
+    },
+    {
+      "name": "Morgator.ai",
+      "description": "An MVP for the U.S. Islamic mortgage market with a guided questionnaire, OpenAI-powered mortgage recommendations, and n8n workflows for scheduled user reminders.",
+      "mainTechs": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "Tailwind CSS",
+        "OpenAI API",
+        "n8n"
+      ],
+      "aiTools": ["Claude", "Figma Make"],
+      "visual": "ai",
+      "accent": "#f5c77e"
+    },
+    {
+      "name": "KayloLife",
+      "description": "A wellness platform with recurring subscriptions, à la carte course purchases, structured content, course management, order handling, and user administration.",
+      "mainTechs": [
+        "Vue 3",
+        "Laravel",
+        "Stripe",
+        "TypeScript",
+        "Tailwind CSS",
+        "MySQL",
+        "Contentful",
+        "Shopware"
+      ],
+      "href": "https://kaylolife.com/",
+      "visual": "wellness",
+      "accent": "#c8f07a"
+    },
+    {
+      "name": "SaferTech",
+      "description": "An AI-driven travel planning experience for Saudi Arabia that gathers dates, preferences, budget constraints, and desired regions before generating personalized travel plans.",
+      "mainTechs": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "Tailwind CSS",
+        "OpenAI API",
+        "Moyasar"
+      ],
+      "href": "https://safartech.ai/",
+      "visual": "travel",
+      "accent": "#ff8f8f"
+    },
+    {
+      "name": "Clinician Hub",
+      "description": "A clinician dashboard for viewing daily and weekly appointments and accessing patient information, with Google Calendar and API integrations.",
+      "mainTechs": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "GCP",
+        "Tailwind CSS",
+        "HIPAA-aligned workflows",
+        "Twilio"
+      ],
+      "visual": "health",
+      "accent": "#82aaff"
+    },
+    {
+      "name": "Office Timeline",
+      "description": "A PowerPoint add-in and standalone web application for creating timelines and Gantt charts, with Jira and Microsoft Project integrations.",
+      "mainTechs": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Storybook",
+        "Azure"
+      ],
+      "visual": "timeline",
+      "accent": "#c792ea"
+    },
+    {
+      "name": "Bicycle Admin Panel",
+      "description": "An admin panel for patient and doctor details, Zoom appointment scheduling, medical history and test tracking, and email, SMS, and push notifications integrated with Athena Healthcare.",
+      "mainTechs": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "TypeScript",
+        "GCP",
+        "Tailwind CSS",
+        "HIPAA-aligned workflows",
+        "Twilio"
+      ],
+      "visual": "health",
+      "accent": "#7bdff2"
+    },
+    {
+      "name": "Release Manager Tool",
+      "description": "A release automation tool for mobile and web applications using Camunda BPM, GitLab CI/CD, version control, deployments, and BPMN workflows.",
+      "mainTechs": ["Kotlin", "Camunda BPM", "GitLab CI/CD", "BPMN"],
+      "visual": "release",
+      "accent": "#f78c6c"
+    },
+    {
+      "name": "Janus",
+      "description": "A backend service that collects CI logs through Kafka, transforms them, stores them in Elasticsearch, and exposes Grafana dashboards for CI/CD activity and observability.",
+      "mainTechs": [
+        "Node.js",
+        "Kafka",
+        "TeamCity",
+        "GitLab",
+        "CI/CD",
+        "Grafana",
+        "Elasticsearch"
+      ],
+      "visual": "observability",
+      "accent": "#89ddff"
+    },
+    {
+      "name": "Job Tracker",
+      "description": "An operations dashboard used to manage MUNCH:ON orders, with database design, APIs, service integrations, ELK observability, Pusher updates, and frontend components.",
+      "mainTechs": [
+        "Node.js",
+        "React",
+        "AWS",
+        "Microservices",
+        "MySQL",
+        "MongoDB",
+        "Pusher",
+        "Tailwind CSS"
+      ],
+      "visual": "orders",
+      "accent": "#a8e6cf"
+    },
+    {
+      "name": "Delivery Service",
+      "description": "A microservice that integrated third-party delivery providers for restaurants without their own fleets, including architecture, database design, and vendor integrations.",
+      "mainTechs": [
+        "Node.js",
+        "React",
+        "AWS",
+        "Microservices",
+        "Careem Box",
+        "MongoDB",
+        "Pusher",
+        "Tailwind CSS"
+      ],
+      "visual": "delivery",
+      "accent": "#ffd166"
+    }
+  ],
+  "education": {
+    "institution": "FAST NUCES",
+    "degree": "Bachelor of Software Engineering",
+    "dates": "2013 – 2017",
+    "courses": [
+      "Deep JavaScript Foundations, v3",
+      "JavaScript: The Hard Parts, v2"
+    ],
+    "courseLinks": [
+      "https://frontendmasters.com/courses/deep-javascript-v3/",
+      "https://frontendmasters.com/courses/javascript-hard-parts-v2/"
+    ]
+  }
+}
