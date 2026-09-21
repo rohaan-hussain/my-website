@@ -247,6 +247,17 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+
+              <div className="andela-badge">
+                <img
+                  className="andela-badge-logo"
+                  src="./andela-logo.svg"
+                  alt="Andela"
+                  width={120}
+                  height={30}
+                />
+                <p className="andela-badge-label">Andela Certified</p>
+              </div>
             </div>
           </section>
 
