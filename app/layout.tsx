@@ -4,7 +4,7 @@ import './globals.css';
 const siteUrl = 'https://rohaanhussain.com';
 const title = 'Syed Rohaan Hussain | Full-Stack Software Engineer';
 const description =
-  'Rohaan Hussain (Syed Rohaan Hussain) is a senior full-stack software engineer and team lead in Pakistan. Hire Rohaan for React, Next.js, Node.js, TypeScript, and AI-enabled product work.';
+  'Syed Rohaan Hussain is a senior full-stack software engineer in Pakistan. Available for React, Next.js, Node.js, TypeScript, and AI-enabled product work.';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -13,15 +13,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteUrl,
   },
-  keywords: [
-    'Rohaan',
-    'Rohaan Hussain',
-    'Syed Rohaan Hussain',
-    'full stack engineer',
-    'full-stack software engineer',
-    'software engineer',
-    'hire software engineer',
-  ],
   robots: {
     index: true,
     follow: true,
@@ -39,8 +30,9 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/og.png',
-        width: 1376,
-        height: 768,
+        width: 1280,
+        height: 720,
+        type: 'image/png',
         alt: 'Rohaan Hussain (Syed Rohaan Hussain), senior full-stack software engineer',
       },
     ],
@@ -124,8 +116,6 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="stylesheet" href="https://use.typekit.net/kmj5qkr.css" />
-        <link rel="canonical" href={siteUrl} />
-        <meta property="og:url" content={siteUrl} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
